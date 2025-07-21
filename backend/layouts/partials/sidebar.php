@@ -15,7 +15,8 @@
       </li>
       <!-- Menu product -->
       <li class="nav-item dropdown">
-        <a href="#" role="button" data-toggle="collapse" data-bs-toggle="dropdown" aria-expanded="false" class="nav-link dropdown-toggle">
+        <a href="#" role="button" data-toggle="collapse" data-bs-toggle="dropdown" aria-expanded="false"
+          class="nav-link dropdown-toggle">
           Product
         </a>
         <ul class="dropdown-menu">
@@ -36,16 +37,15 @@
       </li>
       <!-- Menu User -->
       <li class="nav-item dropdown">
-        <a href="#" role="button" data-toggle="collapse" data-bs-toggle="dropdown" aria-expanded="false" class="nav-link dropdown-toggle">
+        <a href="#" role="button" data-toggle="collapse" data-bs-toggle="dropdown" aria-expanded="false"
+          class="nav-link dropdown-toggle">
           User
         </a>
         <ul class="dropdown-menu">
           <li class="dropdown-item">
-            <a href="/demoshop/backend/functions/product/index.php">User List</a>
+            <a href="/demoshop/backend/functions/user/index.php">User List</a>
           </li>
-          <li class="dropdown-item">
-            <a href="/demoshop/backend/functions/product/create.php">Create User</a>
-          </li>
+
         </ul>
       </li>
       <!-- #################### End Menu user #################### -->

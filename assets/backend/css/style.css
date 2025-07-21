@@ -1,8 +1,15 @@
-body{
+body {
     display: flex;
     flex-direction: column;
     min-height: 100vh;
 }
-main{
+
+main {
     flex: 1;
+}
+
+table img {
+    width: 120px;
+    height: 120px;
+    object-fit: cover;
 }
